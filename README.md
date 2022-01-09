@@ -8,7 +8,8 @@ All the assets i used is listed below:
 - Font used: plasdrip (From https://1001fonts.com)
 
 ## Usage
-First, create a winform project first
+- Convert the BGM from .mp3 to .wav file
+- Create a winform project
 - Type ```dotnet new winforms``` in your terminal, this will automatically create a windows form application
 - Import the code
 - Now go to Program.cs
