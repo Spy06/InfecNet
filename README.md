@@ -24,3 +24,9 @@ Application.Run(engine);
 ```
 
 And thats it, you're done setting up the app!
+
+## Setting The Desktop Wallpaper Through Code
+Call this method everywhere you want
+```csharp
+Extension.SetDesktopWallpaper (filePath);
+```
